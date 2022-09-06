@@ -5,3 +5,5 @@ echo revision begin
 echo bootcamp start
 
 echo morning devotion
+
+echo building CVs
