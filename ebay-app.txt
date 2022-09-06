@@ -1,0 +1,7 @@
+echo course end
+
+echo revision begin
+
+echo bootcamp start
+
+echo morning devotion
